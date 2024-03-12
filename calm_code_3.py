@@ -8,7 +8,7 @@ Original file is located at
 
 Manjinder Sandhu -
 
-Github: https://github.com/ManjinderUNCC/dsba6188--calm-code-3/blob/main/calm_code_3.py
+Github:
 
 # **Partial Fit**
 """
